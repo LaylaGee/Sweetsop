@@ -1,10 +1,10 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-
 title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-
-author="Lucas Mertehikian"
+source-image"https://upload.wikimedia.org/wikipedia/commons/4/48/Sugar_apple_with_cross_section.jpg"
+banner="https://upload.wikimedia.org/wikipedia/commons/4/48/Sugar_apple_with_cross_section.jpg"
+author="Layla Gee"
 
 layout="vertical">
 
